@@ -13,8 +13,9 @@ To get started with this React Accordion, you can install it via npm or yarn:
 
 ```bash
 npm install react-accordion
-
+```
 or
 
 ```bash
 yarn add react-accordion
+```
