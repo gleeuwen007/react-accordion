@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { gsap } from 'gsap';
 import data from './data';
 import './styles.css';
 
