@@ -1,11 +1,13 @@
 .wrapper {
     display: flex;
-    height: 100vh;
+    height: auto;
     width: 100vw;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     flex-direction: column;
     gap: 20px;
+    position: absolute;
+    top: 100px;
 }
 
 .wrapper button {
@@ -50,4 +52,5 @@
     color:#ffffff;
     height: auto;
     text-align: left;
+    overflow: hidden;
 }
